@@ -1,0 +1,14 @@
+﻿<loc:TestWindow x:Class="Test.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:loc="clr-namespace:Test"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="asdadsa"  
+        Height="250" Width="600" >
+        <Grid>
+            <StackPanel>
+                <Button Content="是的" Click="Button_Click_1"/>
+                <TextBox Name="tb" TextWrapping="Wrap"/>
+            </StackPanel>
+            <Border BorderThickness="1" Name="Border" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        </Grid>
+</loc:TestWindow>
