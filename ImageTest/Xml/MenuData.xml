@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Data xmlns="">
-	<Operation Name="文件" Gesture="F">
-		<Operation Name="打开" Gesture="O"/>
-		<Operation Name="打开文件夹" Gesture="OA"/>
-	</Operation>
-</Data>
