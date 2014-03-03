@@ -1,0 +1,10 @@
+d:\documents\visual studio 2012\Projects\WpfTest\Window\bin\Debug\Window.exe.config
+d:\documents\visual studio 2012\Projects\WpfTest\Window\obj\Debug\Window.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\WpfTest\Window\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2012\Projects\WpfTest\Window\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2012\Projects\WpfTest\Window\obj\Debug\App.g.cs
+d:\documents\visual studio 2012\Projects\WpfTest\Window\obj\Debug\Window_MarkupCompile.cache
+d:\documents\visual studio 2012\Projects\WpfTest\Window\obj\Debug\Window.g.resources
+d:\documents\visual studio 2012\Projects\WpfTest\Window\obj\Debug\Window.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\WpfTest\Window\obj\Debug\Window.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\WpfTest\Window\bin\Debug\Test.exe.config

@@ -1,0 +1,11 @@
+D:\MyProject\JJY1309\SeekOauth\bin\Debug\SeekOauth.dll
+D:\MyProject\JJY1309\SeekOauth\bin\Debug\SeekOauth.pdb
+D:\MyProject\JJY1309\SeekOauth\bin\Debug\Newtonsoft.Json.dll
+D:\MyProject\JJY1309\SeekOauth\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\JJY1309\SeekOauth\obj\Debug\SeekOauth.dll
+D:\MyProject\JJY1309\SeekOauth\obj\Debug\SeekOauth.pdb
+D:\Documents\Visual Studio 2012\Projects\WpfTest\SeekOauth\bin\Debug\SeekOauth.dll
+D:\Documents\Visual Studio 2012\Projects\WpfTest\SeekOauth\bin\Debug\SeekOauth.pdb
+D:\Documents\Visual Studio 2012\Projects\WpfTest\SeekOauth\obj\Debug\SeekOauth.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\WpfTest\SeekOauth\obj\Debug\SeekOauth.dll
+D:\Documents\Visual Studio 2012\Projects\WpfTest\SeekOauth\obj\Debug\SeekOauth.pdb
